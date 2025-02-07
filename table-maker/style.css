@@ -1,0 +1,42 @@
+body {
+    text-align: center
+}
+
+h1 {
+    width: 100%;
+    background-color: #483636;
+    color: #fffafa
+}
+
+label {
+    font-weight: 700;
+    color: #291b32
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #6295b3
+}
+
+#gen {
+    background-color: #5851c1;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px
+}
+
+.show {
+    margin-top: 20px;
+    background-color: #3f97bd
+}
+
+.column {
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color: #9ec2d6;
+    border: none
+}
